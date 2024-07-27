@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/MovieVerse/static/css/main.ccfd3975.css",
+    "main.js": "/MovieVerse/static/js/main.22d78689.js",
+    "static/js/453.c9d60546.chunk.js": "/MovieVerse/static/js/453.c9d60546.chunk.js",
+    "index.html": "/MovieVerse/index.html",
+    "static/media/search.svg": "/MovieVerse/static/media/search.b767bc532c98b7adeca0005d07228476.svg",
+    "main.ccfd3975.css.map": "/MovieVerse/static/css/main.ccfd3975.css.map",
+    "main.22d78689.js.map": "/MovieVerse/static/js/main.22d78689.js.map",
+    "453.c9d60546.chunk.js.map": "/MovieVerse/static/js/453.c9d60546.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ccfd3975.css",
+    "static/js/main.22d78689.js"
+  ]
+}
